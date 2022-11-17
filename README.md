@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasmindedic&label=Profile%20views&color=0e75b6&style=flat" alt="jasmindedic" /> </p>
 
-- 🔭 I’m currently working on [Management_Tool](https://jasmindedic.github.io/Management_Tool/)
+- 🔭 I’m currently working on private projects
 
 - 🌱 I’m currently learning **Angular**
 
